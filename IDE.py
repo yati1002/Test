@@ -1,4 +1,4 @@
-##Testing Vs Code
+##Testing VS Code
 from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 
