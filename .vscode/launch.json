@@ -13,7 +13,7 @@
             "name": "VS Code test",
             "program": "${workspaceFolder}/pytest_databricks.py",
             "args": ["."],
-            "env": {}
+            "env": {} 
         }
     ]
 }
