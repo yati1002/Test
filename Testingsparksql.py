@@ -1,4 +1,4 @@
 
 
-df = spark.sql("select * from samples.tpch.customer ")
+df = spark.sql("select * from  ")
 display(df)
